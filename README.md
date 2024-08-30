@@ -1,4 +1,4 @@
 # Banking-chatbot
 This is my collage project.
 
-Author - Bolem Vema Kumar
+Author - Bolem Vema Kumar(student)
